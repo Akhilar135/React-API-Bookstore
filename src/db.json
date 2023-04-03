@@ -1,0 +1,28 @@
+
+    {"cart": [
+      {
+        "id": 1,
+        "pname": "Wings of Fire",
+        "price": 750,
+        "count": 5
+      },
+      {
+        "id": 2,
+        "pname": "Harry Potter",
+        "price": 800,
+        "count": 7
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "pname": "Wings of Fire",
+        "price": 750
+      },
+      {
+        "id": 2,
+        "pname": "Harry Potter",
+        "price": 800
+      }
+    ]
+    }
